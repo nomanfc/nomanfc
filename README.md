@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdullah al-noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al-noman" height="30" width="40" /></a>
 <a href="https://fb.com/noman.fcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah al-noman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nomanfcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nomanfcb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@nomanfcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nomanfcb" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nomanfcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nomanfcb" height="30" width="40" /></a>
 </p>
 
