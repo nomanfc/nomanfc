@@ -7,6 +7,19 @@
 
 - 📫 How to reach me **nomanfcb@gmail.com**
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C1F724&background=0000000B&width=435&lines=Hi;I'm+Abdullah+Al+Noman;nomanfc+and+nomanfc;+is+my+Repository)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomanfc&layout=compact&theme=highcontrast&hide_border=true)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nomanfc&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nomanfc&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomanfc&show_icons=true&theme=highcontrast&hide_border=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomanfc&show_icons=true&theme=highcontrast&hide_border=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah al-noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al-noman" height="30" width="40" /></a>
