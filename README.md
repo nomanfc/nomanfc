@@ -1,4 +1,4 @@
-<h1 align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C1F724&background=0000000B&width=435&lines=Hi;I'm+Abdullah+Al+Noman;This+is+my+Repository)</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C1F724&background=0000000B&width=435&lines=Hi;I'm+Abdullah+Al+Noman;This+is+my+Repository)
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **JavaScript, Node Js**
