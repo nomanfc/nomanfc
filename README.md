@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C1F724&background=0000000B&width=435&lines=Hi;I'm+Abdullah+Al+Noman;This+is+my+Repository)
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3>Frontend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **JavaScript, Node Js**
 
