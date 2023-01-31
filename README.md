@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah Al-Noman</h1>
+<h1 align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C1F724&background=0000000B&width=435&lines=Hi;I'm+Abdullah+Al+Noman;This+is+my+Repository)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **JavaScript, Node Js**
@@ -6,8 +6,6 @@
 - 💬 Ask me about **React, Next js**
 
 - 📫 How to reach me **nomanfcb@gmail.com**
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C1F724&background=0000000B&width=435&lines=Hi;I'm+Abdullah+Al+Noman;nomanfc+and+nomanfc;+is+my+Repository)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomanfc&layout=compact&theme=highcontrast&hide_border=true)
 
